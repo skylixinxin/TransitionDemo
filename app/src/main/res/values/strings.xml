@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TransitionDemon</string>
+    <string name="transition_name" translatable="false">square_transition</string>
+    <string name="text_hipster_ipsum_longer">Gluten-free echo park bushwick kinfolk flannel poutine. Selvage fanny pack banjo, actually distillery ethical organic put a bird on it art party. Letterpress distillery tilde +1 blog, cray green juice crucifix hella meditation.</string>
+
+    <string-array name="animation_apis">
+        <item>Activity Share Animator</item>
+        <item>Fragment Share Animator</item>
+    </string-array>
+
+    <string-array name="items">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+    </string-array>
+
+</resources>
